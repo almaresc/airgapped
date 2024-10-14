@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Sources\airgrapped_demo\api\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2024-10-11T19:04:13.9809617Z||;True|2024-10-11T20:02:36.8151185+01:00||;True|2024-10-11T15:14:20.1321584+01:00||;True|2024-10-11T15:13:34.2107354+01:00||;True|2024-10-11T14:29:57.3543396+01:00||;True|2024-10-11T14:28:48.8945889+01:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
